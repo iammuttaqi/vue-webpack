@@ -25,6 +25,9 @@
       <li>
         <router-link to="/contact">Contact</router-link>
       </li>
+      <li>
+        <router-link to="/laravel">Laravel</router-link>
+      </li>
     </ul>
     <h3>Essential Links</h3>
     <ul>
